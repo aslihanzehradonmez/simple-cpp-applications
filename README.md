@@ -1,5 +1,5 @@
 # 📘 Simple C++ Applications
-C++ ![badge](https://img.shields.io/badge/C%2B%2B-17%2B-blue) ![badge](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
+![badge](https://img.shields.io/badge/C%2B%2B-17%2B-blue) ![badge](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
 
 Welcome to the **Simple C++ Applications** repository! 🎉 This repository is designed for beginners 🧑‍💻 who are learning C++ and want to strengthen their programming skills through practical, hands-on examples. Whether you're just starting out or reviewing core concepts, this collection is a great place to practice and grow.
 
