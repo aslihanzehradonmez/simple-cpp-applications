@@ -82,13 +82,13 @@ simple-cpp-applications/
 ├── Calculator.cpp
 ├── GPAProject.cpp
 ├── ATMSimulation.cpp
-├── Simple Number Guessing Game.cpp
+├── NumberGuessingGame.cpp
 ├── FibonacciFactorial.cpp
 ├── FileApp.cpp
-├── PrimeFinder.cpp
+├── PrimeNumberFinder.cpp
 ├── GradeCalculator.cpp
 ├── CaesarCipher.cpp
-├── LoginSystem.cpp
+├── UserLogin.cpp
 ```
 
 This repository is perfect for beginners 👩‍💻 aiming to enhance their skills through practical coding examples. Happy coding! 🚀
