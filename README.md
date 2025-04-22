@@ -31,21 +31,17 @@ Displays a table of Fibonacci and factorial values up to a user-defined number. 
 ### ✅ File Reading & Writing App 📂  
 A complete file manager on the terminal. Offers reading, writing, analyzing, copying, deleting, renaming files, and viewing directory content and file properties. Windows-specific enhancements included.
 
----
+### ✅ Prime Number Finder 🔍  
+Finds all prime numbers within a given range entered by the user, checks if a number is prime, finds the first N primes, and performs prime factorization. Great for learning loops, conditions, and efficiency techniques.
 
-### 🕒 Coming Soon
+### ✅ Grade Calculator 📝  
+Accepts midterm and final exam scores, computes a weighted average, assigns a letter grade, and optionally handles multiple subjects and class-wide averages.
 
-### 🕗 Prime Number Finder 🔍  
-Finds all prime numbers within a given range entered by the user. Great for learning nested loops and prime-checking logic.
+### ✅ Caesar Cipher 🔐  
+A simple encryption app supporting Caesar, Vigenère, and Transposition ciphers. Users can encode or decode messages interactively.
 
-### 🕗 Grade Calculator 📝  
-Accepts midterm and final exam scores and computes a weighted average and corresponding letter grade.
-
-### 🕗 Caesar Cipher 🔐  
-Simple encryption app using the Caesar cipher method. Users can encode or decode messages by selecting a shift value.
-
-### 🕗 User Login System 👤  
-A basic login system that checks username and password against a stored file or simple in-memory list.
+### ✅ User Login System 👤  
+A basic CLI login system with registration, login, and session support. Passwords are hashed and stored in a file. Includes color-coded prompts and hidden password input for Windows.
 
 ---
 
@@ -89,10 +85,10 @@ simple-cpp-applications/
 ├── Simple Number Guessing Game.cpp
 ├── FibonacciFactorial.cpp
 ├── FileApp.cpp
-├── PrimeFinder.cpp             # (coming soon)
-├── GradeCalculator.cpp         # (coming soon)
-├── CaesarCipher.cpp            # (coming soon)
-├── LoginSystem.cpp             # (coming soon)
+├── PrimeFinder.cpp
+├── GradeCalculator.cpp
+├── CaesarCipher.cpp
+├── LoginSystem.cpp
 ```
 
 This repository is perfect for beginners 👩‍💻 aiming to enhance their skills through practical coding examples. Happy coding! 🚀
